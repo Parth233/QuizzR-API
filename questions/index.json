@@ -4109,4 +4109,14 @@
       "d":"Sun temple",
       "answer":"b"
    }
+{
+      "id":423,
+      "difficulty":5,
+      "question":"Famous sculptures depicting art of love built some time in 950 AD – 1050 AD are?",
+      "a":"Konark Temple",
+      "b":"Khajuraho temples",
+      "c":"Mahabalipuram temples",
+      "d":"Sun temple",
+      "answer":"b"
+   }
 ]
