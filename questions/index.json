@@ -4098,7 +4098,7 @@
       "c":"ZTE",
       "d":"Lenevo",
       "answer":"a"
-   }
+   },
    {
       "id":422,
       "difficulty":3,
@@ -4108,5 +4108,35 @@
       "c":"Mahabalipuram temples",
       "d":"Sun temple",
       "answer":"b"
-   }
+   },
+   {
+      "id": 423,
+      "difficulty": 4,
+      "question": "Which of the following is indicated by the colour of a star?",
+      "a": "Weight",
+      "b": "Distance",
+      "c": "Temperature",
+      "d": "Size",
+      "answer": "c"
+   },
+   {
+      "id": 424,
+      "difficulty": 3,
+      "question": "Who of the following discovered the laws of planetary orbits?",
+      "a": "Galileo Galilei",
+      "b": "Nicholas Copernicus",
+      "c": "Johannes Kepler",
+      "d": "Isaac Newton",
+      "answer": "c"
+    },
+    {
+      "id": 425,
+      "difficulty": 4,
+      "question": "The mass of Jupiter is almost:",
+      "a": "Tenth of the mass of the Sun",
+      "b": "One Thousandth of the mass of the Sun",
+      "c": "Hundred of the mass of the Sun",
+      "d": "Half of the mass of the Sun",
+      "answer": "b"
+    }
 ]
