@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+        integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous">
+    </script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+        integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous">
+    </script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+        integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous">
+    </script>
+    <script src="https://code.jquery.com/jquery-3.5.1.js"
+        integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Alegreya&family=Arvo&family=Mali:ital,wght@1,500;1,600&family=Nunito&family=Questrial&family=Raleway&display=swap"
+        rel="stylesheet">
+    <title>Home of the QuizzR-API</title>
+    <link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon">
+    <link href="https://fonts.googleapis.com/css2?family=Berkshire+Swash&display=swap" rel="stylesheet">
+    <style>
+        a {
+            text-align: center;
+            color: rgb(253 167 61);
+            font-size: 1.2rem;
+            font-family: 'Questrial', sans-serif;
+        }
+
+        a:hover {
+            text-decoration: none;
+            color: rgb(128, 119, 119);
+        }
+
+        .center {
+            padding: 1% 0;
+            text-align: center;
+        }
+    </style>
+</head>
+
+<body>
+    <nav class="navbar navbar-expand-sm fixed-top navbar-dark bg-dark">
+        <a href="" class="navbar-brand">
+            <p class="brand-name">QuizzR</p>
+        </a>
+        <button class="navbar-toggler btn btn-sm ml-right-auto" type="button" data-toggle="collapse"
+            data-target="#naviga" aria-controls="naviga" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="naviga">
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item"><a class="nav-link" href="#">Home</a></li>
+                <li class="nav-item"><a class="nav-link" href="#use">How to Use</a></li>
+                <li class="nav-item"><a class="nav-link" href="#contribute">Contribute</a></li>
+                <li class="nav-item"><a class="nav-link" href="#wof">Wall of Fame</a></li>
+                <li class="nav-item"><a class="nav-link" href="#connect">Connect</a></li>
+                </li>
+        </div>
+    </nav>
+    <div class="head">
+        <div class="rheto">Ever wanted to Build a Quiz Game but gave up at the prospect of Hunting for the Right
+            Questions and set them up?</div>
+        <div class="ans">Well, look no further, the QuizzR API has got your back!</div>
+        <p class="kya">QuizzR is an Open-Source RESTful API to return General Knowledge questions at Random or by
+            Difficulty.</p>
+    </div>
+    <div class="use" id="use">
+        <h2 class="use-title">How to Use: </h2>
+        <div class="random">
+            <h3 class="random-title">Get a Random Question</h3>
+            <p class="hitup">Hit Up the URL: <br></p>
+            <div class="random-url">https://quizzrapi.herokuapp.com/random</div>
+            <div class="center"><a href="https://quizzrapi.herokuapp.com/random">( Here )</a></div>
+            <p class="what">You get a JSON file to import similar to this:</p>
+            <img src="images/random.png" alt="random question" class="img-fluid randomcode">
+        </div>
+        <div class="diffi">
+            <h3 class="random-title">Get a Question of Custom Difficulty</h3>
+            <p class="hitup">Hit Up the URL: <br></p>
+            <div class="random-url">https://quizzrapi.herokuapp.com/difficulty/3</div>
+            <div class="center"><a href="https://quizzrapi.herokuapp.com/difficulty/3">( Here )</a></div>>
+            <p class="diff-level">(Difficulty Ranges from 1 to 5.)</p>
+            <p class="what">You get a JSON file to import similar to this:</p>
+            <img src="images/custom.png" alt="random output" class="img-fluid randomcode">
+        </div>
+        <div class="tip">While, we can't guarantee the uniqueness of questions for each Request, we provide a distinct ID for each question which you can use to ensure a unique set.</div>
+    </div>
+    <div class="contribute" id="contribute">
+        <h2 class="use-title">Contribute</h2>
+        <div class="gh">The Entire Code Base Can Be Found on <a href="https://github.com/alfhad/QuizzR-API"
+                style="font-size: 1.39rem;">GitHub</a>.</div>
+        <h3 class="addme">Want to Add Your Questions?</h3>
+        <div class="addq">
+            <h1 class="headcontri">Contribution Guidelines:</h1>
+            <div class="guide">
+                <ul>
+                    <li>
+                        Add your Questions <a
+                            href="https://github.com/alfhad/QuizzR-API/blob/master/questions/index.json">here</a>.<br>
+                        Keep the id unique by incrementing the value of yours by 1 of the previous.
+                    </li>
+                    <li>
+                        Keep the Questions Global Centric and not about a particular region. <br>
+                        Eg: Who was the Vice-President of India in 1980? is NOT a global-centric question. <br>
+                        Keep the Questions diverse.
+                    </li>
+                    <li>
+                        We understand that difficulty is subjective and each person may have different parameters for
+                        the same. <br>
+                        Hence, keep the difficulty to what you expect for an average person.
+                    </li>
+                    <li>
+                        Inevitably, there may be some errors crept in the questions.<br>
+                        If you find any, please do the necessary changes and contribute.
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="wall-of-fame" id="wof">
+        <h2 class="use-title">Wall of Fame</h2>
+        <div class="wof-mean">Welcome to the Wall of Fame, where we feature the Projects made using the QuizzR API.</div>
+        <div class="container">
+            <div class="col-lg-4 col-xs-12">
+                <div class="column2">
+                    <h5 class="wof-name">Infinite Quizz Game in JS</h5>
+                    <div class="src">Source: <a href="https://svelte.dev/repl/e488c9f35a224b72ad0d21e850d2698c?version=3.24.0">Here</a></div>
+                    <div class="imp">App: <a href="https://happyduckiesdemos.netlify.app/svelte-quiz/">Here</a></div>
+                    <div class="maker">Maker: <a href="https://www.reddit.com/user/freddietheteacher/">u/freddietheteacher</a></div>
+                </div>
+            </div>
+
+        </div>
+        <h2 class="make">Made a Project using QuizzR?</h2>
+        <h4 class="hit-me">Hit Us Up To Get Featured!</h4>
+    </div>
+    <div class="contact" id="connect">
+        <h2 class="contactus">Let's Connect</h2>
+        <h3 class="cont">Reach the Head Collaborators</h3>
+        <div class="container">
+        <div class="row">
+            <div class="col-lg-4 col-xs-12">
+            <div class="column">
+                <div class="name">Fahad Shah</div>
+                <h5 class="ghhh"><a href="https://github.com/alfhad" style="color: #fdfdfd;">GitHub</a> | <a href="https://www.instagram.com/sayed.fahad/" style="color: #fdfdfd;">Instagram</a></h5>
+                <p class="college">Dr. DY Patil Institute of Technology, Pune.</p>
+            </div></div>
+            <div class="col-lg-4 col-xs-12">
+            <div class="column">
+                <div class="name">Devang Kamble</div>
+                <h5 class="ghhh"><a href="https://github.com/rising-entropy" style="color: #fdfdfd;">GitHub</a> | <a href="https://www.instagram.com/devangkamble/" style="color: #fdfdfd;">Instagram</a></h5>
+                <p class="college">Walchand College of Engineering, Sangli</p>
+            </div></div>
+            <div class="col-lg-4 col-xs-12">
+            <div class="column">
+                <div class="name">Sourav Singh</div>
+                <h5 class="ghhh"><a href="https://github.com/sourav2712" style="color: #fdfdfd;">GitHub</a> | <a href="https://www.instagram.com/singh_sourav2712/" style="color: #fdfdfd;">Instagram</a></h5>
+                <p class="college">Dr. DY Patil Institute of Technology, Pune.</p>
+            </div></div>
+        </div></div>
+    </div>
+    <footer>
+        In Collaboration, we Trust.
+    </footer>
+</body>
+
+</html>

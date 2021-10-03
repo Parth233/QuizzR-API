@@ -1,0 +1,250 @@
+.brand-name{
+    display: inline-block;
+    font-family: 'Berkshire Swash', cursive;
+    font-size: 140%;
+    margin: auto;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+.nav-item{
+    font-size: 120%;
+}
+nav{
+    padding-top: 0;
+    padding-bottom: 0;
+}
+.head{
+    text-align: center;
+    padding-top: 150px;
+    padding-bottom: 11%;
+    background: rgb(139, 138, 141);
+}
+.rheto{
+    font-family: 'Raleway', sans-serif;
+    font-size: 300%;
+    padding-bottom: 2%;
+    color: #f7f7f7;
+}
+.ans{
+    color: rgb(255 255 255);
+    font-size: 160%;
+    padding-bottom: 2%;
+    font-family: 'Arvo', serif;
+}
+.kya{
+    color: rgb(252 252 252);
+    font-size: 130%;
+    font-family: 'Questrial', sans-serif;
+}
+.use{
+    padding-top: 5%;
+    padding-bottom: 5%;
+    background: rgb(29,37,52);
+}
+.use-title{
+    text-align: center;
+    color: #dce8ff;
+    font-family: 'Arvo', serif;
+    font-size: 2.2rem;
+    padding-bottom: 1%;
+}
+.random-title{
+    text-align: center;
+    color: #665b5b;
+}
+.hitup{
+    padding-top: 1.2%;
+    font-size: 1.3rem;
+    text-align: center;
+    color: #ba9797;
+    font-family: 'Questrial', sans-serif;
+}
+.random-url{
+    text-align: center;
+    font-size: 0.9rem;
+    margin: 0 auto;
+    color: #e4ece5;
+}
+.random-url:hover{
+    color: #b1c5ff;
+}
+.diff-level{
+    font-size: 0.9rem;
+    text-align: center;
+    font-family: 'Arvo', serif;
+    color: #fff;
+    padding-top: 1%;
+}
+.what{
+    padding-top: 1.5%;
+    text-align: center;
+    font-family: 'Nunito', sans-serif;
+    color: #b7b7bd;
+    font-size: 1.3rem;
+}
+.randomcode{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.contribute{
+    padding-top: 5.5%;
+    background: #4d4141;
+    padding-bottom: 6.6%;
+}
+.gh{
+    padding-top: 1%;
+    font-size: 1.39rem;
+    font-family: 'Nunito', sans-serif;
+    color: #fff;
+    text-align: center;
+}
+.addme{
+    text-align: center;
+    color: #efefef;
+    padding-top: 4%;
+    font-family: 'Questrial', sans-serif;
+    font-size: 2.9rem;
+}
+.addq{
+    text-align: center;
+}
+.headcontri{
+    padding-top: 1.2%;
+    font-size: 1.7rem;
+    color: #eba6a6;
+    font-family: 'Arvo', serif;
+}
+.guide{
+    padding-top: 3%;
+    display: inline-block;
+    text-align: start;
+    margin: 0 auto;
+    font-size: 1.1rem;
+    font-family: 'Nunito', sans-serif;
+    color: #d5ebfc;
+    padding-left: 15%
+}
+.contact{
+    padding-top: 5%;
+    padding-bottom: 6%;
+    background: #707070;
+}
+.column{
+    padding: 0;
+    border: 2px solid #d5ebfc;
+    border-radius: 20px;
+    margin: 0.5%;
+}
+.contactus{
+    text-align: center;
+    color: #f1e5e5;
+    font-family: 'Arvo', serif;
+    font-size: 2.2rem;
+    padding-bottom: 1.5%;
+}
+.cont{
+    text-align: center;
+    color: #d9d1f8;
+    padding-top: 1%;
+    font-family: 'Nunito', sans-serif;
+    font-size: 1.9rem;
+    padding-bottom: 2%;
+}
+.name{
+    text-align: center;
+    font-size: 1.8rem;
+    font-family: 'Alegreya', serif;
+    color: #e1e2f5;
+    text-decoration: underline;
+}
+.ghhh{
+    text-align: center;
+    font-family: 'Nunito', sans-serif;
+    color: #e1e2f5;
+}
+.college{
+    text-align: center;
+    color: #fcfcfc;
+    font-family: 'Arvo', serif;
+}
+footer{
+    text-align: center;
+    padding-bottom: 0.7%;
+    padding-top: 0.3%;
+    background: #494646;
+    color: #ddd;
+    font-family: 'Alegreya', serif;
+}
+.tip{
+    text-align: center;
+    color: #ffe0e0;
+    padding-top: 4%;
+    font-family: 'Nunito', sans-serif;
+    font-size: 1.2rem;
+    padding-bottom: 1.5%;
+}
+.wall-of-fame{
+    padding-top: 5%;
+    padding-bottom: 5%;
+    background: #665b5b;
+}
+.wof-mean{
+    text-align: center;
+    font-family: 'Nunito', sans-serif;
+    color: #e7e9ee;
+    font-size: 1.2rem;
+    padding-top: 0.5%;
+    padding-bottom: 2%;
+}
+.make{
+    text-align: center;
+    font-family: 'Arvo', serif;
+    font-size: 1.5rem;
+    padding-bottom: 1%;
+    padding-top: 2%;
+    color: #dce8ff;
+}
+.hit-me{
+    text-align: center;
+    font-family: 'Questrial', sans-serif;
+    color: #ba9797;
+    font-size: 1.3rem;
+}
+.src{
+    font-family: 'Questrial', sans-serif;
+    color: #e1e2f5;
+    font-size: 1.1rem;
+}
+.imp{
+    color: #e1e2f5;
+    font-family: 'Questrial', sans-serif;
+    font-size: 1.1rem;
+}
+.maker{
+    color: #e1e2f5;
+    font-family: 'Questrial', sans-serif;
+    font-size: 1.1rem;
+}
+.wof-name{
+    text-align: center;
+    font-size: 1.2rem;
+    color: #fcfcfc;
+    font-family: 'Arvo', serif;
+}
+.column2{
+    padding: 1.4%;
+    border: 2px solid #677c8d;
+    border-radius: 20px;
+    margin: 0.5%;
+}
+.wof-que{
+    text-align: center;
+    font-size: 1rem;
+}
+.column3{
+    padding: auto;
+    border: 2px solid #677c8d;
+    border-radius: 20px;
+    margin: 0.5%;
+}
