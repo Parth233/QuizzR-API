@@ -4161,5 +4161,16 @@
       "d": "Lord Mountbatten",
       "answer": "d"
   }
+ {
+      "id": 428,
+      "difficulty": 3,
+      "question": "Who was the first Man to Climb Mount Everest Without Oxygen?",
+      "a": "Junko Tabei",
+      "b": "Reinhold Messner",
+      "c": "Peter Habeler",
+      "d": "Phu Dorji",
+      "answer": "d"
+  }
+
 
 ]
