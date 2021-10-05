@@ -4098,17 +4098,18 @@
       "c":"ZTE",
       "d":"Lenevo",
       "answer":"a"
-   }
+   },
    {
-      "id":422,
-      "difficulty":3,
-      "question":"Famous sculptures depicting art of love built some time in 950 AD – 1050 AD are?",
-      "a":"Konark Temple",
-      "b":"Khajuraho temples",
-      "c":"Mahabalipuram temples",
-      "d":"Sun temple",
-      "answer":"b"
-   }
+      "id": 422,
+      "difficulty": 4,
+      "question": "Which of the following is indicated by the colour of a star?",
+      "a": "Weight",
+      "b": "Distance",
+      "c": "Temperature",
+      "d": "Size",
+      "answer": "c"
+   },
+ 
 {
       "id":423,
       "difficulty":5,
@@ -4130,6 +4131,24 @@
   "d": "Rhinoceros",
   "answer": "b"
 }
-
-
+{
+      "id": 425,
+      "difficulty": 3,
+      "question": "Who of the following discovered the laws of planetary orbits?",
+      "a": "Galileo Galilei",
+      "b": "Nicholas Copernicus",
+      "c": "Johannes Kepler",
+      "d": "Isaac Newton",
+      "answer": "c"
+  },
+  {
+      "id": 426,
+      "difficulty": 4,
+      "question": "The mass of Jupiter is almost:",
+      "a": "Tenth of the mass of the Sun",
+      "b": "One Thousandth of the mass of the Sun",
+      "c": "Hundred of the mass of the Sun",
+      "d": "Half of the mass of the Sun",
+      "answer": "b"
+  }
 ]

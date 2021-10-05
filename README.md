@@ -25,7 +25,7 @@ Submit a Pull Request, with your question added to the questions/index.json file
   "difficulty": #(1-5),
   "question": "____?",
   "a": "",
-  "b:: "",
+  "b": "",
   "c": "",
   "d": "",
   "answer": "(#)"(replace # -> option having correct answer)
