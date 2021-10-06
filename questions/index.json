@@ -4119,19 +4119,18 @@
       "c":"Mahabalipuram temples",
       "d":"Sun temple",
       "answer":"b"
-   }
-
-{
-  "id": 424,
-  "difficulty":3,
-  "question": " What's the biggest animal in the world? ",
-  "a": "Elephant",
-  "b": "Blue Whale",
-  "c": "Ostrich",
-  "d": "Rhinoceros",
-  "answer": "b"
-}
-{
+   },
+   {
+      "id": 424,
+      "difficulty":3,
+      "question": " What's the biggest animal in the world? ",
+      "a": "Elephant",
+      "b": "Blue Whale",
+      "c": "Ostrich",
+      "d": "Rhinoceros",
+      "answer": "b"
+   },
+   {
       "id": 425,
       "difficulty": 3,
       "question": "Who of the following discovered the laws of planetary orbits?",
@@ -4150,8 +4149,8 @@
       "c": "Hundred of the mass of the Sun",
       "d": "Half of the mass of the Sun",
       "answer": "b"
-  }
- {
+  },
+  {
       "id": 427,
       "difficulty": 4,
       "question": "Which Viceroy of India was the great-grandson of Britain’s Queen Victoria",
@@ -4160,8 +4159,8 @@
       "c": "Lord Willington",
       "d": "Lord Mountbatten",
       "answer": "d"
-  }
- {
+  },
+  {
       "id": 428,
       "difficulty": 2,
       "question": "The book 'None to Accompany Me' is written by",
@@ -4170,6 +4169,15 @@
       "c": "Nadine Gordimer",
       "d": "Kenzaburo Oe",
       "answer": "c"
-  }
-
+  },
+  {
+      "id": 429,
+      "difficulty": 2,
+      "question": "Who wrote the Indian National Anthem?",
+      "a": "Bakim Chandra Chatterji",
+      "b": "Rabindranath Tagore",
+      "c": "Swami Vivekanand",
+      "d": "None of the above",
+      "answer": "b"
+  },
 ]
