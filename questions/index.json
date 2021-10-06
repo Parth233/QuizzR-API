@@ -4161,5 +4161,15 @@
       "d": "Lord Mountbatten",
       "answer": "d"
   }
+ {
+      "id": 428,
+      "difficulty": 2,
+      "question": "The book 'None to Accompany Me' is written by",
+      "a": "Toni Morrison",
+      "b": "Octavio Paz",
+      "c": "Nadine Gordimer",
+      "d": "Kenzaburo Oe",
+      "answer": "c"
+  }
 
 ]
