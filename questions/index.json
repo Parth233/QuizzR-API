@@ -4180,4 +4180,14 @@
       "d": "None of the above",
       "answer": "b"
   },
+   {
+      "id": 430,
+      "difficulty": 2,
+      "question": "What is the name of the Covid-19 awareness campaign launched by the Indian Prime Minister ahead of festive seasons?",
+      "a": "Jan Andolan",
+      "b": "Bharat Andolan",
+      "c": "Covid Jagrutha",
+      "d": "Covid Chodo India",
+      "answer": "a"
+   }
 ]
