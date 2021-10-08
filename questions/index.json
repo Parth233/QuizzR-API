@@ -4189,5 +4189,25 @@
       "c": "Covid Jagrutha",
       "d": "Covid Chodo India",
       "answer": "a"
+   },
+    {
+      "id": 431,
+      "difficulty": 1,
+      "question": "Which of the following country was first to use a symbol zero(0)?",
+      "a": "Japan",
+      "b": "India",
+      "c": "China",
+      "d": "United Kingdom",
+      "answer": "b"
+   },
+    {
+      "id": 432,
+      "difficulty": 2,
+      "question": "How many permanent teeth does a dog have?",
+      "a": "32",
+      "b": "50",
+      "c": "55",
+      "d": "42",
+      "answer": "d"
    }
 ]
