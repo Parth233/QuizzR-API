@@ -4189,5 +4189,15 @@
       "c": "Covid Jagrutha",
       "d": "Covid Chodo India",
       "answer": "a"
+  },
+   {
+      "id": 431,
+      "difficulty": 3,
+      "question": "Total number of oceans in the World is",
+      "a": "3",
+      "b": "9",
+      "c": "5",
+      "d": "7",
+      "answer": "c"
    }
 ]
