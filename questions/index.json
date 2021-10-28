@@ -4189,5 +4189,15 @@
       "c": "Covid Jagrutha",
       "d": "Covid Chodo India",
       "answer": "a"
-   }
+   },
+    {
+      "id": 431,
+      "difficulty": 2,
+      "question": "Where first COVID-19 appeared?",
+      "a": "Kabul, Afghanistan",
+      "b": "Wuhan, China",
+      "c": "New Delhi, India",
+      "d": "Washington DC, USA",
+      "answer": "b"
+}
 ]
