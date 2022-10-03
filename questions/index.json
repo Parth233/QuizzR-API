@@ -4189,5 +4189,15 @@
       "c": "Covid Jagrutha",
       "d": "Covid Chodo India",
       "answer": "a"
-   }
+   },
+      {
+      "id":431,
+      "difficulty":3,
+      "question":"Who was the first person to reach North Pole?",
+      "a":"Robert Peary",
+      "b":"Robert Cook",
+      "c":"Charles Hillary",
+      "d":"Johan Don",
+      "answer":"a"
+   },
 ]
