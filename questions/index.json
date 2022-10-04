@@ -4200,4 +4200,14 @@
       "d":"Johan Don",
       "answer":"a"
    },
+    {
+      "id":432,
+      "difficulty":3,
+      "question":"which city is pink city in india?",
+      "a":"Jaipur",
+      "b":"Hyderabad",
+      "c":"Kolkata",
+      "d":"Agra",
+      "answer":"a"
+   },
 ]
