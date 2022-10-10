@@ -4210,4 +4210,14 @@
       "d":"Agra",
       "answer":"a"
    },
+   {
+      "id":433,
+      "difficulty":2,
+      "question":"Which actress played Rose in the film 'Titanic'?",
+      "a":"Kate Winslet",
+      "b":"Gwyneth Paltrow",
+      "c":"Melaine Lynskey",
+      "d":"Julia Stiles",
+      "answer":"a"
+   },
 ]
