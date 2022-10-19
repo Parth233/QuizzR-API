@@ -4230,4 +4230,14 @@
       "d":"Abd al Muttalib",
       "answer":"b"
    },
+      {
+      "id":435,
+      "difficulty":2,
+      "question":"In which country is there a natural gas pit nicknamed the ‘Door to Hell’ that has been on fire since 1971?",
+      "a":"Turkmenistan",
+      "b":"Azerbaijan",
+      "c":"Bulgaria",
+      "d":"Icelaand",
+      "answer":"a"
+   },
 ]
