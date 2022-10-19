@@ -4220,4 +4220,14 @@
       "d":"Julia Stiles",
       "answer":"a"
    },
+      {
+      "id":434,
+      "difficulty":4,
+      "question":"Who was Prophet Muhammads' father?",
+      "a":"Abu Bakr",
+      "b":"Abdullah",
+      "c":"Abu Talib",
+      "d":"Abd al Muttalib",
+      "answer":"b"
+   },
 ]
